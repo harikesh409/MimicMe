@@ -1,6 +1,6 @@
 # Mimic Me!
 
-=
+
 ## Overview
 
 In this project, you will learn to track faces in a video and identify facial expressions using Affectiva. As a fun visualization, you will tag each face with an appropriate emoji next to it. You will then turn this into a game where the player needs to mimic a random emoji displayed by the computer!
